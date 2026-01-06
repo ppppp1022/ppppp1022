@@ -3,8 +3,7 @@
 I am interested in **Machine Learning, Computer Vision, Reinforcement Learning, and Interactive Systems**,  
 working across **research projects, game development, and practical applications**.
 
-🌐 **Homepage**: https://ppppp1022.github.io/
-
+<p align="center"> <a href="https://ppppp1022.github.io/"> <img src="https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://github.com/ppppp1022"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> </p>
 ---
 
 ## 🧠 Tech Stack
