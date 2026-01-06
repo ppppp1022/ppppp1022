@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=ChanyoungPark&type=rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!)
 
 I am interested in **Machine Learning, Computer Vision, Reinforcement Learning, and Interactive Systems**,  
 working across **research projects, game development, and practical applications**.
