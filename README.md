@@ -1,7 +1,9 @@
 ## 👋 Hi, I'm Chanyoung Park
 
-I work on **Machine Learning, Computer Vision, and Interactive Systems**,  
-with interests in **Deep Learning, Time-Series Representation Learning, and Game / Simulation-based Applications**.
+I am interested in **Machine Learning, Computer Vision, Reinforcement Learning, and Interactive Systems**,  
+working across **research projects, game development, and practical applications**.
+
+🌐 **Homepage**: https://ppppp1022.github.io/
 
 ---
 
@@ -11,6 +13,8 @@ with interests in **Deep Learning, Time-Series Representation Learning, and Game
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
@@ -27,43 +31,73 @@ with interests in **Deep Learning, Time-Series Representation Learning, and Game
 
 ---
 
-### 🧪 Research Topics
-- Time-Series Representation Learning (TS2Vec, Contrastive Learning)
-- Computer Vision (Detection, Classification, Embedding)
-- Reinforcement Learning & MDP / POMDP
-- Human-Centered AI & Interactive Systems
+## 🎓 School Projects
+
+- 🚶 **Sidewalk / Crosswalk Classification Model**  
+  - Object Classification & Keypoint-based Classification  
+  - 🔗 https://github.com/ppppp1022/DeepLearning-side-crosswalk-classification  
+  - 🛠 Python · Deep Learning · Computer Vision
+
+- 🎴 **Pokémon Look-alike Finder**  
+  - CLIP-based image embedding & similarity search  
+  - 🛠 Computer Vision · Embedding · Multimodal Models
 
 ---
 
-## 📂 Selected Projects
+## 🌐 Web / App Development
 
-- 🚶 **Sidewalk / Crosswalk Classification (Deep Learning)**  
-  👉 https://github.com/ppppp1022/DeepLearning-side-crosswalk-classification
+- ⏰ **Reminder Application**  
+  - *(Repository link to be added)*
 
-- 🏸 **Badminton Swing Skill Assessment (TS2Vec)**  
-  👉 *(link to paper / repo)*
+---
 
-- 🎴 **CLIP-based Image Embedding Project**  
-  👉 *(link to project)*
+## 🎮 Game Development
 
-- 🎲 **Unity-based Multiplayer Board Game (NGO)**  
-  👉 *(link to project)*
+- 🀄 **Rummikub (Korean Version)**  
+  - Multiplayer board game implemented in Unity  
+  - 🔗 https://github.com/ppppp1022/rummikub-for-korean  
+  - 🛠 C# · Unity · Multiplayer
 
-> Detailed descriptions are provided in each repository.
+- 🔮 **LLM-based Item Crafting Game System**  
+  - Local LLM integration with image generation via Google Image API  
+  - 🔗 https://github.com/ppppp1022/Infinite-Merge-Engine/tree/main  
+  - 🛠 C# · Unity · Python · LLM
+
+---
+
+## 🏆 Competitions / Hackathons
+
+- 📚 **GDGOC Hackathon**  
+  - Chrome extension for balanced reading support  
+  - 🔗 https://github.com/ppppp1022/balanced-reading-program  
+  - 🛠 Python · HTML · JavaScript · Chrome Extension
+
+- ☁️ **Amazon JAM**  
+  - *(Details available upon request)*
+
+---
+
+## 🔬 Research Projects
+
+- ⚙️ **Torque Control using Reinforcement Learning**  
+  - Unity ML-Agents based RL simulation  
+  - 🔗 https://github.com/ppppp1022/unity-mlagent-torque  
+  - 🛠 C# · Unity · Reinforcement Learning
+
+- 🏸 **Time-Series Analysis with TS2Vec**  
+  - Skill assessment from motion time-series data  
+  - 🔗 https://github.com/ppppp1022/badminton_ts2vec  
+  - 🛠 Python · TS2Vec · Representation Learning
+
+- 🖐 **Fingers Become Tools – Unity Scene Development**  
+  - VR interaction scene development  
+  - 🛠 C# · Unity · VR
 
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppppp1022&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppppp1022&layout=compact)
-
----
-
-## 🔗 Links
-
-- 📄 Google Scholar / Paper: *(link)*
-- 🧠 Portfolio / Blog: *(link)*
-- ✉️ Contact: *(email or link)*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppppp1022&layout=compact)
 
 ---
