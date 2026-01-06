@@ -1,5 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=rect&color=auto&height=180&text=Chanyoung%20Park&desc=ML%20%7C%20Unity%20%7C%20Game%20Dev%20%7C%20AI&fontSize=50&descSize=24&fontColor=ffffff)
-
+![banner](https://capsule-render.vercel.app/api?type=rect&color=auto&height=180&text=Chanyoung%20Park-nl&desc=ML%20%7C%20Unity%20%7C%20Game%20Dev%20%7C%20AI&fontSize=50&descSize=24&fontColor=ffffff)
 
 I am interested in **Machine Learning, Computer Vision, Reinforcement Learning, and Interactive Systems**,  
 working across **research projects, game development, and practical applications**.
